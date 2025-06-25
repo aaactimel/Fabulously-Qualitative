@@ -19,7 +19,7 @@ The most lightweight QoL- and optimization-based client modpack
 **A:** **Yes**! This modpack can even be used on official multiplayer servers without problems!
 
 **Q:** **What about newer or older versions?**  
-**A:** **Currently, they are in development**. Porting modpack into another version is not so easy, especially when it comes to finding alternatives for unavailable on N-version mod.
+**A:** **Currently, they are in development**. Porting modpack into another version is not so easy, especially when it comes to finding alternatives for unavailable on N-version mod.  
 **Q:** **What about Forge?**  
 **A:** **That is even harder**. Half of the mod aren't available on Forge and I don't know any good alternatives on it. So, sorry, but this modpack will use Fabric permanently. *If there will be much requests about Forge, I'll make separate modpack's Forge variant.*
 
