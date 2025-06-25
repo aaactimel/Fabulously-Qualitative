@@ -18,6 +18,11 @@ The most lightweight QoL- and optimization-based client modpack
 **Q:** **Is it multiplayer friendly?**  
 **A:** **Yes**! This modpack can even be used on official multiplayer servers without problems!
 
+**Q:** **What about newer or older versions?**  
+**A:** **Currently, they are in development**. Porting modpack into another version is not so easy, especially when it comes to finding alternatives for unavailable on N-version mod.
+**Q:** **What about Forge?**  
+**A:** **That is even harder**. Half of the mod aren't available on Forge and I don't know any good alternatives on it. So, sorry, but this modpack will use Fabric permanently. *If there will be much requests about Forge, I'll make separate modpack's Forge variant.*
+
 **Q:** **Does it compatible with Steam Deck, Lenovo Legion, ASUS ROG ALLY, MSI Claw?**  
 **A:** Practically **yes**, but you need to install [**MidnightControls (1.9.4)**](https://modrinth.com/mod/midnightcontrols/version/1.9.4+1.20) (not included to modpack because of possible bloating). FPS will be stable; however, lock to 60FPS@1080p recommended (30FPS@720p/1080p for battery saving)  
 
